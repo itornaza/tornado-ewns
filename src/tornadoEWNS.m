@@ -1,6 +1,6 @@
 %***********************************************************************
 % File:     tornadoEWNS.m
-% Name:     Ioannis Tornazakis
+% Name:     ion-
 % Project:  Electronic Warfare Network Simulation Analysis (EWNS)
 % Date:     7 Dec 2007
 % 
@@ -146,7 +146,7 @@ global currentRoute;    % Hold the current route in the
 % Display programme header
 fprintf('**********************************************\n');
 fprintf('Electronic Warfare Network Simulation Analysis\n');
-fprintf('       Tornado-EWNS Ioannis Tornazakis\n');
+fprintf('       Tornado-EWNS ion-\n');
 fprintf('**********************************************\n\n');
 
 %---------------------------
