@@ -1,0 +1,18 @@
+# MATLAB / Octave
+*.asv
+*.m~
+*.mat
+octave-workspace
+octave-core
+
+# Generated plots and logs (docs/*.png are kept on purpose)
+/out/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editors
+.DS_Store
+*~
